@@ -5,3 +5,4 @@
 - [Dice Roll Simulator](https://dice-roll-simulator-mohit.netlify.app/)
 - [Pomodoro Timer](https://pomodoro-timer-mohit.netlify.app/)
 - [Rock Paper Scissors Game](https://rock-paper-scissors-game-mohit.netlify.app/)
+- [Stopwatch](https://stopwatch-mohit05.netlify.app/)
