@@ -11,3 +11,4 @@
 - [Basic Calculator](https://basic-calculator-mohit.netlify.app/)
 - [Dad Jokes Generator](https://dad-jokes-generator-mohit.netlify.app/)
 - [Photo Gallery](https://photo-gallery-mohit.netlify.app/)
+- [English Dictionary](https://english-dictionary-mohit.netlify.app/)
