@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  background: linear-gradient(to left bottom, lightgreen, lightblue);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  width: 90%;
+  text-align: center;
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.3);
+  padding: 20px 40px;
+  border-radius: 15px;
+  background-color: rgba(255, 255, 255, 0.1);
+  margin: 10px;
+}
+
+.heading {
+  font-size: 36px;
+  margin: 16px 0;
+}
+
+.quote {
+  font-size: 25px;
+  margin-bottom: 16px;
+}
+
+.author {
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-style: italic;
+}
+
+.btn {
+  padding: 10px;
+  font-size: 18px;
+  text-transform: uppercase;
+  background: rgba(255, 255, 255, 0.3);
+  border-color: rgba(255, 255, 255, 0.6);
+  border-radius: 5px;
+  width: 300px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn:hover {
+  background: rgba(255, 255, 255, 0.6);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.3);
+  color: green;
+}
