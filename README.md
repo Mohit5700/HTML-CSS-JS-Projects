@@ -14,3 +14,4 @@
 - [English Dictionary](https://english-dictionary-mohit.netlify.app/)
 - [Anime Pics Generator](https://anime-pics-generator-mohit.netlify.app/)
 - [Notes App](https://notes-app-mohit.netlify.app/)
+- [BMI Calculator](https://bmi-calculator-mohit.netlify.app/)
