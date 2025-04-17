@@ -15,3 +15,4 @@
 - [Anime Pics Generator](https://anime-pics-generator-mohit.netlify.app/)
 - [Notes App](https://notes-app-mohit.netlify.app/)
 - [BMI Calculator](https://bmi-calculator-mohit.netlify.app/)
+- [Random Quote Generator](https://random-quote-generator-mohit.netlify.app/)
