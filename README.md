@@ -17,3 +17,4 @@
 - [BMI Calculator](https://bmi-calculator-mohit.netlify.app/)
 - [Random Quote Generator](https://random-quote-generator-mohit.netlify.app/)
 - [Temperature Converter](https://temp-converter-mohit.netlify.app/)
+- [Currency Converter](https://currency-convertor-mohit.netlify.app/)
