@@ -18,3 +18,4 @@
 - [Random Quote Generator](https://random-quote-generator-mohit.netlify.app/)
 - [Temperature Converter](https://temp-converter-mohit.netlify.app/)
 - [Currency Converter](https://currency-convertor-mohit.netlify.app/)
+- [Loan Calculator](https://loan-calculator-mohit.netlify.app/)
