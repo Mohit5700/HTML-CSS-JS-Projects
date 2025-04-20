@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Loan Calculator</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Loan Calculator</h1>
+      <label for="loan">Loan Amount ₹</label>
+      <input type="number" class="input input-loan" value="10000" min="1" />
+      <label for="interest">Interest Rate %</label>
+      <input
+        type="number"
+        class="input input-interest"
+        value="10"
+        min="0"
+        max="100"
+        step="0.1"
+      />
+      <label for="years">Years</label>
+      <input
+        type="number"
+        class="input input-years"
+        value="1"
+        min="1"
+        max="30"
+      />
+      <p class="emi">Monthly EMI: <span class="emi-amt"></span></p>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
