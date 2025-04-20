@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Courier New", Courier, monospace;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  background-color: darkcyan;
+  padding: 30px;
+  border-radius: 5px;
+  color: aliceblue;
+}
+
+h1 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.currency-container {
+  margin-bottom: 36px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.currency {
+  padding: 10px;
+}
+
+.value {
+  border: none;
+  font-size: 24px;
+  padding: 10px;
+  background: transparent;
+  color: aliceblue;
+  outline: none;
+  text-align: right;
+}
+
+.result {
+  text-align: center;
+  font-family: 18px;
+  font-weight: 700;
+}
