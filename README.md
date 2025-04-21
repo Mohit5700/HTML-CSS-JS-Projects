@@ -20,3 +20,4 @@
 - [Currency Converter](https://currency-convertor-mohit.netlify.app/)
 - [Loan Calculator](https://loan-calculator-mohit.netlify.app/)
 - [Random Emoji](https://random-emoji-mohit.netlify.app/)
+- [Weight Convertor](https://weight-convertor-mohit.netlify.app/)
