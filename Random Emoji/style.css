@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: salmon;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  margin-top: 180px;
+  margin-bottom: 20px;
+  color: #fff;
+}
+
+button {
+  padding: 20px;
+  border-radius: 10px;
+  border: none;
+  margin-bottom: 10px;
+  font-size: 80px;
+  background: rgba(255, 255, 255, 0.3);
+  filter: grayscale();
+  transition: filter 0.2s ease;
+  cursor: pointer;
+}
+
+button:hover {
+  filter: grayscale(0);
+}
+
+h3 {
+  color: darkblue;
+}
