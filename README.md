@@ -25,3 +25,4 @@
 - [Button Ripple Effect](https://feedback-ui-mohit.netlify.app/)
 - [Digital Clock](https://digital-clock-mohit.netlify.app/)
 - [Rotating Image Gallery](https://rotating-image-gallery.netlify.app/)
+- [Random Color Generator](https://random-color-generator-mohit.netlify.app/)
