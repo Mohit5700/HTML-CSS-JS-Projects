@@ -24,3 +24,4 @@
 - [Feedback UI](https://feedback-ui-mohit.netlify.app/)
 - [Button Ripple Effect](https://feedback-ui-mohit.netlify.app/)
 - [Digital Clock](https://digital-clock-mohit.netlify.app/)
+- [Rotating Image Gallery](https://rotating-image-gallery.netlify.app/)
