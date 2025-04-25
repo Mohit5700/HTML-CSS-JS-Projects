@@ -26,3 +26,4 @@
 - [Digital Clock](https://digital-clock-mohit.netlify.app/)
 - [Rotating Image Gallery](https://rotating-image-gallery.netlify.app/)
 - [Random Color Generator](https://random-color-generator-mohit.netlify.app/)
+- [Real Time Character Counter](https://real-time-character-counter-mohit.netlify.app/)
