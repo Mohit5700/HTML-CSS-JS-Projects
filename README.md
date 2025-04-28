@@ -28,3 +28,4 @@
 - [Random Color Generator](https://random-color-generator-mohit.netlify.app/)
 - [Real Time Character Counter](https://real-time-character-counter-mohit.netlify.app/)
 - [Profile Statistics](https://profile-statistics.netlify.app/)
+- [Heart Trail Animation](https://heart-trail-animation-mohit.netlify.app/)
