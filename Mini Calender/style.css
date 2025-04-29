@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: cursive;
+  background-color: slateblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  background-color: white;
+  text-align: center;
+  width: 270px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+}
+
+.month {
+  padding: 10px;
+  background-color: orangered;
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.day {
+  color: darkgray;
+  font-size: 18px;
+  margin-top: 16px;
+  margin-bottom: 20px;
+}
+
+.date {
+  font-size: 70px;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.year {
+  font-size: 18px;
+  color: darkgray;
+  margin-bottom: 16px;
+}
